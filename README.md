@@ -30,3 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 �
 
 Detailed instructions in page https://dev.to/fayvik/uploading-an-image-to-firebase-cloud-storage-with-angular-2aeh
+
+Chú ý các bước config bên firebase
+b1: khởi tạo project firebase https://console.firebase.google.com/
+b2: tạo database trong dự án firebase
+b3: tạo storage trong dự án firebase.
